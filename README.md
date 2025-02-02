@@ -11,7 +11,6 @@
 8. [Results](#results)
 9. [Future Work](#future-work)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ---
 
@@ -113,8 +112,4 @@ Contributions are welcome! If you have ideas to improve this project, please:
 2. Create a new branch for your feature/bugfix.
 3. Submit a pull request.
 
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
