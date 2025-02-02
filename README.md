@@ -97,10 +97,6 @@ The model is trained using Mean Squared Error (MSE) as the loss function and Ada
 - The model achieves high accuracy for predicting short-term trends.
 - Visualizations include predicted vs. actual prices and trend lines based on EMA.
 
-Example prediction plot:
-
-![Prediction Plot](assets/prediction_plot.png)
-
 ---
 
 ## Future Work
